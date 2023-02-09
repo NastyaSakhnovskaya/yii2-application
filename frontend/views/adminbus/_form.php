@@ -6,6 +6,7 @@ use yii\widgets\ActiveForm;
 /* @var $this yii\web\View */
 /* @var $model frontend\models\Bus */
 /* @var $form yii\widgets\ActiveForm */
+/*eeeeeeeeeee */
 ?>
 
 <div class="bus-form">
